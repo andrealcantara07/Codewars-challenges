@@ -37,4 +37,4 @@ findDigit(-2825, 3);
 findDigit(-456, 4);     
 findDigit(0, 20);      
 findDigit(65, 0);      
-findDigit(24, -8);  
+findDigit(24, -8)
